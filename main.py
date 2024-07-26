@@ -32,7 +32,7 @@ def preprocess_text(text):
 
 
 # Streamlit app
-st.title("Sentiment Analysis of Reviews")
+st.title("Sentiment Prediction of Reviews")
 st.write("Enter a review text or upload a file to predict sentiment.")
 
 # Text input
