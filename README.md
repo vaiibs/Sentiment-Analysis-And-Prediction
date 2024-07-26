@@ -1,5 +1,5 @@
 # Sentiment Analysis and Prediction of Reviews
-This project focuses on analyzing customer sentiment towards Amazon Alexa using machine learning. 
+Project focuses on analyzing customer sentiment towards Amazon Alexa using machine learning. 
 
 A logistic regression model was built to predict whether a review is positive or negative based on the review text.
 
