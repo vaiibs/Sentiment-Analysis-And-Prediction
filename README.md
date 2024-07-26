@@ -1,4 +1,4 @@
-# Sentiment-Analysis-And-Prediction
+# Sentiment Analysis of Amazon Alexa Reviews
 
 ![image](https://github.com/user-attachments/assets/5db8be5b-d6e0-436c-99bb-d48af143336d)
 
