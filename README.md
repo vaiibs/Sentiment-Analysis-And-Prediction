@@ -1,7 +1,7 @@
 # Sentiment Analysis and Prediction of Reviews
 Project focuses on analyzing customer sentiment towards Amazon Alexa and predicting sentiments using machine learning. 
 
-Project builds a web application that allows users to analyze the sentiment using Streamlit.
+Project builds a web application that allows users to analyze the sentiment using Streamlit.Users can write a review or upload a file to get predictions.
 
 The text preprocessing was done using NLTK by removing non-alphabetic characters, converting text to lowercase, splitting into words, applied stemming using the Porter Stemmer, Vectorization and Scaling.
 
