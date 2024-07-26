@@ -1,11 +1,7 @@
 # Sentiment-Analysis-And-Prediction
 
-![image](https://github.com/user-attachments/assets/7c21d0d3-768d-4b73-b7bd-3f1c11ed30d9)
+![image](https://github.com/user-attachments/assets/5db8be5b-d6e0-436c-99bb-d48af143336d)
 
-![image](https://github.com/user-attachments/assets/55ada84c-7473-46cf-aba3-4a7b4e4ac1a4)
-
-![image](https://github.com/user-attachments/assets/3534006b-1bd4-4047-bf78-229f03658231)
-
-![image](https://github.com/user-attachments/assets/25a82742-e5da-4497-aa91-1fbfc3f64fb0)
+![image](https://github.com/user-attachments/assets/b2801de7-008e-4d77-9233-428681b32f3b)
 
 ![image](https://github.com/user-attachments/assets/95b31c67-65da-4684-bc5f-62035a6d39da)
